@@ -1,8 +1,8 @@
 # EV Charging Infrastructure Analysis
 <p align="center">
-  <img src="DoE-Logo.jpeg" alt="Department of Energy" width="150"/>
-  <img src="wa-opendata.png" alt="State of Washington Open Data" width="300"/>
-  <img src="data-gov.png" alt="Data.gov" width="200"/>
+  <img src="doe_logo.jpeg" alt="Department of Energy" width="150"/>
+  <img src="wa_opendata.png" alt="State of Washington Open Data" width="300"/>
+  <img src="data_gov.png" alt="Data.gov" width="200"/>
 </p>
 
 ## **Analysis of EV Charging Stations by Location, Fast Charger Availability, and Density**
