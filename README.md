@@ -145,7 +145,7 @@ This data was sourced from:
 
 To explore the **interactive analysis of EV charging stations**, visit my Power BI charts:  
 
-- [EV Population and Charging Stations Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzhhMTVmYjMtOTU4Ni00ZWJlLWIwYjUtMDBjNWYwOTc1OGZkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9))
+- [EV Population and Charging Stations Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzhhMTVmYjMtOTU4Ni00ZWJlLWIwYjUtMDBjNWYwOTc1OGZkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ---
 
