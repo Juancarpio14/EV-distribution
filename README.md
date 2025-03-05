@@ -1,4 +1,4 @@
-# EV Charging Infrastructure Analysis
+# Optimizing EV Charging Infrastructure: A Data-Driven Approach for Washington
 <p align="center">
    <img src="images/data_gov.png" alt="Data.gov" width="200"/>
   <img src="images/doe_logo.jpeg" alt="Department of Energy" width="150"/>
@@ -21,7 +21,7 @@
 - [**Tools Used**](#tools-used)
 - [**Sources**](#sources)
 - [**Power BI Charts**](#power-bi-charts)
-
+- [**Map Visualizations**](#map-visualizations) 
 ---
 
 ## **EXECUTIVE SUMMARY**
@@ -52,7 +52,7 @@ To support this investigation, the following key questions were analyzed:
 - What are the **optimal locations** for charging stations in Washington based on traffic flow and population density?
 - Which cities in Washington have the **highest concentration of EVs**, and how does this correlate with the availability of charging stations?
 - How many charging stations in Washington support **fast charging (EV DC Fast Count)**, and where are they located?
-- How does the distribution of the **EV population and charging stations** vary across cities in Washington?
+- How does the distribution of the **EV population and chargers** vary across cities in Washington?
 
 The analysis relies on publicly available datasets, including **U.S. charging stations (2021) and the EV population in Washington (2023)**.
 
@@ -145,8 +145,19 @@ This data was sourced from:
 
 To explore the **interactive analysis of EV charging stations**, visit my Power BI charts:  
 
+- [EV Population and Charging Stations Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzhhMTVmYjMtOTU4Ni00ZWJlLWIwYjUtMDBjNWYwOTc1OGZkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9))
 
-### **Maps Screenshots**
+---
 
-Below are some key insights visualized in Python, Pandas:
+## **MAP VISUALIZATIONS**
 
+Below are some maps visualized in Python, Pandas:
+<p align="center">
+   <img src="images/heat_map.png" alt="Heat Map EV Population-Stations" width="200"/>
+  <img src="images/high_traffic_map.jpeg" alt="Annual Average Daily Traffic" width="150"/>
+  <img src="images/seattle.png" alt="Seattle" width="300"/>
+   <img src="images/tacoma.png" alt="Tacoma" width="300"/>
+  <img src="images/spocane.png" alt="Spocane" width="300"/>
+    <img src="images/bellevue.png" alt="Bellevue" width="300"/>
+    <img src="images/olympia.png" alt="Olympia" width="300"/>
+  </p>
