@@ -141,7 +141,7 @@ This data was sourced from:
 
 ---
 
-## **POWER BI charts**
+## **POWER BI CHARTS**
 
 To explore the **interactive analysis of EV charging stations**, visit my Power BI charts:  
 
@@ -152,12 +152,14 @@ To explore the **interactive analysis of EV charging stations**, visit my Power 
 ## **MAP VISUALIZATIONS**
 
 Below are some maps visualized in Python, Pandas:
+#### Dark Blue Dots: EV Charging Stations
+#### Light Blue and Purple: EV Population
 <p align="center">
-   <img src="images/heat_map.png" alt="Heat Map EV Population-Stations" width="200"/>
-  <img src="images/high_traffic_map.jpeg" alt="Annual Average Daily Traffic" width="150"/>
-  <img src="images/seattle.png" alt="Seattle" width="300"/>
+   <img src="images/heat_map.png" alt="Heat Map EV Population-Stations" width="350"/>
+  <img src="images/high_traffic_map.jpg" alt="Annual Average Daily Traffic" width="300"/>
+  <img src="images/seattle.png" alt="Seattle" width="280"/>
    <img src="images/tacoma.png" alt="Tacoma" width="300"/>
-  <img src="images/spocane.png" alt="Spocane" width="300"/>
-    <img src="images/bellevue.png" alt="Bellevue" width="300"/>
-    <img src="images/olympia.png" alt="Olympia" width="300"/>
+  <img src="images/spocane.png" alt="Spocane" width="600"/>
+    <img src="images/bellevue.png" alt="Bellevue" width="280"/>
+    <img src="images/olympia.png" alt="Olympia" width="360"/>
   </p>
